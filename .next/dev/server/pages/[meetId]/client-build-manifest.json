@@ -1,0 +1,5 @@
+{
+  "/[meetId]": [
+    "static/chunks/pages/[meetId].js"
+  ]
+}
